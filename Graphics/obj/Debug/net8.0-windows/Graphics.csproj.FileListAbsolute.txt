@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.Form1.resources
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.AssemblyInfo.cs
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.sourcelink.json
+C:\Users\User\source\repos\Graphics\Graphics\bin\Debug\net8.0-windows\Graphics.exe
+C:\Users\User\source\repos\Graphics\Graphics\bin\Debug\net8.0-windows\Graphics.deps.json
+C:\Users\User\source\repos\Graphics\Graphics\bin\Debug\net8.0-windows\Graphics.runtimeconfig.json
+C:\Users\User\source\repos\Graphics\Graphics\bin\Debug\net8.0-windows\Graphics.dll
+C:\Users\User\source\repos\Graphics\Graphics\bin\Debug\net8.0-windows\Graphics.pdb
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.dll
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\refint\Graphics.dll
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.pdb
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\Graphics.genruntimeconfig.cache
+C:\Users\User\source\repos\Graphics\Graphics\obj\Debug\net8.0-windows\ref\Graphics.dll
